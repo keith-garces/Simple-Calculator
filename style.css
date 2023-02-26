@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+  }
+
+#num1 {
+  margin-top: 5px;
+    margin-bottom: 15px;
+    
+}
+
+#num2 {
+     margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+#operator {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+button {
+  margin-top: 10px;
+   margin-bottom: 15px;
+}
+
+#result {
+     margin-top: 5px;
+    margin-bottom: 15px;
+}
